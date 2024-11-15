@@ -1,6 +1,5 @@
 # collegedemo
+
 This is my first Git Repository
 <br>
-Author - Abdul Rehman
-
-
+Author - Abdul (college)
